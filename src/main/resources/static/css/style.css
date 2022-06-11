@@ -1,0 +1,24 @@
+.homeDiv {
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 100px;
+}
+
+.date {
+	color: blue;
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.time {
+	color: green;
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.home {
+	display: flex;
+	justify-content: center;
+}
